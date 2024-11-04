@@ -1,0 +1,6 @@
+/* Improving the Game
+Variations to Chaos Balls
+Changed the bumper shape
+Change the footsteps audio 
+Covering up terrain with other game objects
+ */
